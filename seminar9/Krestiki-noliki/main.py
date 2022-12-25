@@ -1,0 +1,3 @@
+import game_krestiki_noliki
+
+game_krestiki_noliki.play_game()
